@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/sanitylocks/poopy/main/sanityspoop"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/sanitylocks/poopy/side/sanityspoop"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
